@@ -1,0 +1,10 @@
+1. Only the white cells must be filled.
+2. All the white cells must have a value (0 if there is no value to fill)
+3. In column '1st measurement' fill in all the first measurments of the hour counters (not the oil tank)
+4. In column '2nd measurement' fill in all the first measurments of the hour counters and the oil tank
+5. In column 'Heating calories' fill in the heating calories of each apartment radiators
+6. In cell 'Price/liter of residual oil' fill in the price per liter of the oil you had put the last time
+7. In cell 'Residual oil (liters)' fill in the oil in liters left in the oil tank from the last time
+8. In cell 'New oil (liters)' fill in the liters of new oil you put in the oil tank
+9. In cell 'Money for new oil' fill in the money paid for the new oil
+10. In cell 'Price/liter of new oil' fill in the price per liter of the new oil you put in the oil tank
