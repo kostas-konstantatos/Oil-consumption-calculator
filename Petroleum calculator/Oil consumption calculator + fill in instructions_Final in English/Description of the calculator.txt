@@ -1,3 +1,0 @@
-This oil consumption calculator can be used by maximum five apartments. It weights the heating calories of each apartment,
-the hours of the counters and also takes into consideration the residual oil that is in the oil tank before we put in the
-new order.
